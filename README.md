@@ -9,5 +9,5 @@ on the SDR decodes are generally better than the decodes on the
 radio.
 
 It can also be used with any of the SDR control programs that
-support thatever SDR you use (I use SDR Console) to provide
+support whatever SDR you use (I use SDR Console) to provide
 a panadapter capability for radios that don't have that option.
